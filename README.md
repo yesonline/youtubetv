@@ -13,7 +13,7 @@ Paste this URL: `https://raw.githubusercontent.com/yesonline/youtubetv/main/yout
 ### Run the tool on your local machine
 ``` bash
 git clone https://github.com/yesonline/youtubetv.git
-cd YouTube_to_m3u
+cd youtubetv
 chmod +x autorun.sh
 ./autorun.sh
 ```
