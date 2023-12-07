@@ -1,5 +1,5 @@
 
-<h1 align="center"> YouTube to m3u </h1>
+<h1 align="center"> YouTubeTV </h1>
 
 [![M3U generator for YouTube](https://github.com/yesonline/youtubetv/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/yesonline/youtubetv/actions/workflows/m3u_Generator.yml)
 
