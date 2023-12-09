@@ -103,16 +103,7 @@ https://www.youtube.com/watch?v=MnjsqzOQbRE
 Arirang TV | Korea | https://tv.yesonline.me/img/120x120_KOREAarirangTV.jpg |
 https://www.youtube.com/watch?v=CJVBX7KI5nU
 
-YonhapnewsTV 뉴스쏙 | Korea | https://tv.yesonline.me/img/500x500_yonhapnewstv23.png |
-https://www.youtube.com/watch?v=7bNnIJ_dFCI
-
-YonhapnewsTV 생중계 | Korea | https://tv.yesonline.me/img/500x500_yonhapnewstv23.png |
-https://www.youtube.com/watch?v=B9nEgU8SI9s
-
-YonhapnewsTV 뉴스쏙 | Korea | https://tv.yesonline.me/img/500x500_yonhapnewstv23.png |
-https://www.youtube.com/watch?v=CpgpFq3kG_o
-
-YonhapnewsTV 생방송] | Korea | https://tv.yesonline.me/img/500x500_yonhapnewstv23.png |
+YonhapnewsTV 생방송 | Korea | https://tv.yesonline.me/img/500x500_yonhapnewstv23.png |
 https://www.youtube.com/watch?v=6QZ_qc75ihU 
 
 DiggleClassic | Korea | https://tv.yesonline.me/img/1200x1200_DiggleClassic.jpg |
@@ -126,9 +117,6 @@ https://www.youtube.com/watch?v=b5UeAVqz4cI
 
 NHK WORLD | Japan | https://tv.yesonline.me/img/1200x1200_NHKWORLDJAPAN.png |
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
-ANNnews 夜ニュースまとめ 最新情報を厳選してお届け | Japan | https://tv.yesonline.me/img/288x288_ANNnewsCH.jpg |
-https://www.youtube.com/watch?v=VxW_WgHJEoA
 
 ANNnews 日本のニュースを24時間配信 | Japan | https://tv.yesonline.me/img/288x288_ANNnewsCH.jpg |
 https://www.youtube.com/watch?v=coYw-eVU0Ks
