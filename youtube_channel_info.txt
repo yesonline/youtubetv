@@ -7,9 +7,6 @@ https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞LIVE直播頻道24小時線上直播 | Taiwan | https://tv.yesonline.me/img/800x800_ctv.jpg |
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-華視新聞直播 CH52 | Taiwan | https://tv.yesonline.me/img/1025x1025_cts.png |
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
 公視新聞 PTS News 24小時線上直播 | Taiwan | https://tv.yesonline.me/img/792x792_pts.jpg |
 https://www.youtube.com/watch?v=quwqlazU-c8
 
@@ -18,6 +15,9 @@ https://www.youtube.com/watch?v=dZp87qnWelE
 
 東森新聞 EBC 51 頻道24小時線上直播 | Taiwan | https://tv.yesonline.me/img/512x512_ebc01.png |
 https://www.youtube.com/watch?v=S5WOGu2HSes
+
+東森雲端世界日報 51 頻道 24 小時線上直播 | Taiwan | https://tv.yesonline.me/img/512x512_ebc04.png |
+https://www.youtube.com/watch?v=P6SAaFcrRDo
 
 東森財經新聞 EBC 24小時線上直播 | Taiwan | https://tv.yesonline.me/img/180x180_ebc02.jpg |
 https://www.youtube.com/watch?v=WHEPzbFA3hw
@@ -28,14 +28,23 @@ https://www.youtube.com/watch?v=LbS-xQ67fos
 中天新聞 CTI 24小時HD新聞直播 | Taiwan | https://tv.yesonline.me/img/800x800_cti01.gif |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
+中天深喉嚨 | Taiwan | https://tv.yesonline.me/img/800x800_cti03.png |
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
 民視新聞 FTV 新聞直播 | Taiwan | https://tv.yesonline.me/img/600x600_ftv01.png |
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 三立iNEWS 24小時 CH48新聞直播 ON AIR | Taiwan | https://tv.yesonline.me/img/1080x1080_setn02.png |
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
+三立新聞 24小時直播 LIVE 三立+ | Taiwan | https://tv.yesonline.me/img/175x175_setn03.jpg |
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+
 TVBS NEWS LIVE 網路獨家新聞 24 小時直播 | Taiwan | https://tv.yesonline.me/img/800x800_tvbs.jpg |
 https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+TVBS 國際+ | Taiwan | https://tv.yesonline.me/img/1080x1080_tvbsplus.png |
+https://www.youtube.com/watch?v=p8nkgLy_qaU
 
 鏡新聞 mnews 24小時 線上直播 | Taiwan | https://tv.yesonline.me/img/1000x1000_mnews.png |
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -45,6 +54,33 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 
 寰宇新聞台灣台24小時線上直播 | Taiwan | https://tv.yesonline.me/img/800x800_globalnewstw02.png |
 https://www.youtube.com/watch?v=w87VGpgd90U
+
+NBC News | United States | https://tv.yesonline.me/img/736x736_NBCNews.png |
+https://www.youtube.com/watch?v=FL7QMI0X8Aw
+
+Bloomberg Business News | United States | https://tv.yesonline.me/img/794x794_markets.png |
+https://www.youtube.com/watch?v=iyOq8DhaMYw
+
+ABC News | United States | https://tv.yesonline.me/img/1080x1080_ABCNews.png |
+https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+FOX | United States | https://tv.yesonline.me/img/800x800_livenowfox.png |
+https://www.youtube.com/watch?v=3_-jZqsQqdk
+ 
+Sky News | United Kingdom | https://tv.yesonline.me/img/3311x3311_SkyNews.png |
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+ 
+Euronews | France | https://tv.yesonline.me/img/800x800_euronews.jpg |
+https://www.youtube.com/watch?v=pykpO5kQJ98
+
+FRANCE 24 | France | https://tv.yesonline.me/img/1000x1000_France24_en.png |
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+ 
+DW News | Germany | https://tv.yesonline.me/img/800x800_dwnews.png |
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+Al Jazeera | Qatar | https://tv.yesonline.me/img/1516x1516_aljazeeraenglish.png |
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 鳳凰衛視資訊台24h直播 | Hongkong | https://tv.yesonline.me/img/1838x1838_phoenixtvhk.png |
 https://www.youtube.com/watch?v=Zm4i_rvAcxc
