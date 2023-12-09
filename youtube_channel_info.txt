@@ -4,9 +4,6 @@
 台視新聞台HD 24小時線上直播 | Taiwan | https://tv.yesonline.me/img/1080x1080_ttv.png |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-台視直播 TTV LIVE | Taiwan | https://tv.yesonline.me/img/575x575_ttv.jpg |
-https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
 中視新聞LIVE直播頻道24小時線上直播 | Taiwan | https://tv.yesonline.me/img/800x800_ctv.jpg |
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
@@ -15,9 +12,6 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 公視新聞 PTS News 24小時線上直播 | Taiwan | https://tv.yesonline.me/img/792x792_pts.jpg |
 https://www.youtube.com/watch?v=quwqlazU-c8
-
-公視台語台網路直播 | Taiwan | https://tv.yesonline.me/img/1080x1080_pts.jpg |
-https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 TaiwanPlus TV Livestream | Taiwan | https://tv.yesonline.me/img/800x800_taiwanpluslive.jpg |
 https://www.youtube.com/watch?v=dZp87qnWelE
@@ -34,17 +28,8 @@ https://www.youtube.com/watch?v=LbS-xQ67fos
 中天新聞 CTI 24小時HD新聞直播 | Taiwan | https://tv.yesonline.me/img/800x800_cti01.gif |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-中天新聞網 | Taiwan | https://tv.yesonline.me/img/927x927_cti02.jpg |
-https://www.youtube.com/watch?v=mjNb7UMevIQ
-
 民視新聞 FTV 新聞直播 | Taiwan | https://tv.yesonline.me/img/600x600_ftv01.png |
 https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-民視快新聞 | Taiwan | https://tv.yesonline.me/img/600x600_ftv02.png |
-https://www.youtube.com/watch?v=ZlU9Sx_sFj0
-
-SETN 12小時新聞現場 | Taiwan | https://tv.yesonline.me/img/800x800_setn01.jpg |
-https://www.youtube.com/watch?v=TiIqjRJgBs4
 
 三立iNEWS 24小時 CH48新聞直播 ON AIR | Taiwan | https://tv.yesonline.me/img/1080x1080_setn02.png |
 https://www.youtube.com/watch?v=CKjSm5ZeehE
@@ -60,12 +45,6 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 
 寰宇新聞台灣台24小時線上直播 | Taiwan | https://tv.yesonline.me/img/800x800_globalnewstw02.png |
 https://www.youtube.com/watch?v=w87VGpgd90U
-
-KBS WORLD TV | Korea | https://tv.yesonline.me/img/2641x2641_kbsworldtv.png |
-https://www.youtube.com/watch?v=IBy_BHT9a3M
-
-ALL THE K-POP | Korea | https://tv.yesonline.me/img/1000x1000_mbcallthekpop.png |
-https://www.youtube.com/watch?v=k2F1XZxPLOA
 
 鳳凰衛視資訊台24h直播 | Hongkong | https://tv.yesonline.me/img/1838x1838_phoenixtvhk.png |
 https://www.youtube.com/watch?v=Zm4i_rvAcxc
